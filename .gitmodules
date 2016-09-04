@@ -1,0 +1,4 @@
+[submodule "lib/api"]
+	path = lib/api
+	url = https://github.com/GROSSWEBER/git-submodule-sub.git
+	branch = master
